@@ -1,3 +1,6 @@
+Pandas Project
+https://datalore.jetbrains.com/notebook/QCPhYaDxCO9fGTkm5A4fuQ/ZXcB6KbF2okumT7EsYymRF/
+
 เขียน API Starwars ดึงออกมาเป็น dataframe
 https://colab.research.google.com/drive/1p2lj19PurqjZVgpxj16C_yCt-Sb1lTcg
 
