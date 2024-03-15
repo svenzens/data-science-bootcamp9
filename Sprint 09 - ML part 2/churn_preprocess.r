@@ -1,6 +1,3 @@
-churn.csv
-ใช้ preProcess หรือปรับ metric อะไรก็ได้ ลองเทียบระหว่าง KNN, Logistic Regression แล้วมาแชร์ผลลัพธ์
-
 library(dplyr)
 library(tidyverse)
 library(caret)
