@@ -1,6 +1,3 @@
-การบ้านวันนี้ สร้างโมเดล ทำนาย churn column ใน churn.csv file
-ใช้ method = glm ตัวแปรต้น 3-5 ตัว ลองเลือกตัวแปรที่น่าจะใช้ได้ เข้ามาใน model นะครับ
-
 library(dplyr)
 library(tidyverse)
 library(caret)
