@@ -1,1 +1,3 @@
-Spreadsheets [Google Sheets](https://docs.google.com/spreadsheets/d/1tSkVz2nycqqqATkbEZDAFjF4tvtSSxG9dKcxyP0qGTQ/edit#gid=1656509133)
+Homework
+Google Sheets: 
+https://docs.google.com/spreadsheets/d/1tSkVz2nycqqqATkbEZDAFjF4tvtSSxG9dKcxyP0qGTQ/edit#gid=1656509133
