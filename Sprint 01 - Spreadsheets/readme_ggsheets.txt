@@ -1,7 +1,7 @@
 Class
 
 Lesson Lesson Name
-1 Data Entry
+1	Data Entry
 2	Array Formula
 3	Import Data
 4	Explore
