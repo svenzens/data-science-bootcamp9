@@ -30,8 +30,7 @@ origin_ewr <- flights %>%
 origin_ewr <- origin_ewr %>% 
   select(name, n)
 
-## Q3
-. Top Destination for Year 2013
+## Q3. Top Destination for Year 2013
 top_dest <- flights %>%
   count(dest) %>%
   arrange(desc(n)) %>%
